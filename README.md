@@ -14,7 +14,6 @@ An intelligent system designed to streamline academic paper management. APMS lev
 - [Key Features](#key-features)
 - [System Architecture & Tech Stack](#system-architecture--tech-stack)
 - [System Design](#system-design)
-  - [Use Case Diagram](#use-case-diagram)
   - [User Roles](#user-roles)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
@@ -62,15 +61,6 @@ APMS is built as a modern web application, containerized for easy deployment and
 -   **Object-Relational Mapping (ORM):** **SQLAlchemy** to interact with the database.
 
 ## System Design
-
-### Use Case Diagram
-
-The following diagram illustrates the primary interactions between users (actors) and the system's core functionalities.
-
-![Use Case Diagram](./docs/use-case-diagram.png)
-*(**Note**: Make sure to place your `use-case-diagram.png` inside a `docs` folder in your repository for this link to work.)*
-
-For detailed descriptions of each use case, please see the [Use Case Specification Document](./docs/USE_CASES.md).
 
 ### User Roles
 
@@ -129,18 +119,3 @@ The following features are planned for future increments:
 
 See the [open issues](https://github.com/your-username/academic-paper-management-system/issues) for a full list of proposed features and known issues.
 
-## Contributing
-
-Contributions are what make the open-source community an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-## Contact
-
-[Your Name] - [@YourTwitter](https://twitter.com/YourTwitter) - your.email@example.com
-
-Project Link: [https://github.com/your-username/academic-paper-management-system](https://github.com/your-username/academic-paper-management-system)
