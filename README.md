@@ -117,5 +117,5 @@ The following features are planned for future increments:
 -   [ ] **Enhanced Analytics**: Provide more granular, visual data on research trends and author productivity.
 -   [ ] **Public API**: Offer an API for other institutional tools to interact with the system.
 
-See the [open issues](https://github.com/your-username/academic-paper-management-system/issues) for a full list of proposed features and known issues.
+
 
